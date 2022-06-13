@@ -1,9 +1,13 @@
 .header-logo {
-    background-color: #1F2937;    
+    background-color: #1F2937;   
 }
 
 .header-text {
     color: white;
+}
+
+ul {
+    list-style-type: none;
 }
 
 a {
