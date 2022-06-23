@@ -42,6 +42,10 @@ a {
     flex-wrap: wrap;
 }
 
+.hero-subsection {
+    margin-left: 200px;
+}
+
 h1 {
     color: #F9FAF8;
     font-size: 48px;
