@@ -38,6 +38,7 @@ a {
 
 .hero-section {
     background-color: #1F2937;
+    display: flex;
 }
 
 h1 {
