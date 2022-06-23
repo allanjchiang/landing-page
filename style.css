@@ -87,4 +87,5 @@ button {
 .container {
     display: flex;
     justify-content: center;
+    gap: 52px;
 }
