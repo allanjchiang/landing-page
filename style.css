@@ -80,3 +80,8 @@ button {
     font-size: 36px;
     color: #1F2937;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+}
