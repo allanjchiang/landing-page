@@ -63,6 +63,7 @@ button {
     background-color: #3882F6;
     color: #F9FAF8;
     font-size: 18px;
+    border: none;
 }
 
 .hero-subsection-image {
