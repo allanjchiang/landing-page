@@ -97,4 +97,5 @@ p {
 .info-img {
     width: 180px;
     height: 180px;
+    border: 5px solid #3882F6;
 }
