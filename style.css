@@ -110,6 +110,7 @@ p {
 .quote-section {
     display: flex;
     flex-wrap: wrap;
+    background-color: #E5E7EB;
 }
 
 .quote {
