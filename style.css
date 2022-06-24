@@ -128,6 +128,10 @@ p {
     margin: 0 0 100px 750px;
 }
 
+.modal-container {
+    display: flex;
+}
+
 .modal {
     background-color: #3882F6;
     width: 1000px;
