@@ -93,3 +93,8 @@ p {
 .info {
     max-width: 200px;
 }
+
+.info-img {
+    width: 180px;
+    height: 180px;
+}
