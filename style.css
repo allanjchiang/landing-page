@@ -106,3 +106,7 @@ p {
     margin-right: 10px;
     padding-bottom: 80px;
 }
+
+.quote-section {
+    display: flex;
+}
