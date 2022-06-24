@@ -109,4 +109,5 @@ p {
 
 .quote-section {
     display: flex;
+    flex-wrap: wrap;
 }
