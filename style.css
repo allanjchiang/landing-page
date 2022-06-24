@@ -99,3 +99,8 @@ p {
     height: 180px;
     border: 5px solid #3882F6;
 }
+
+.text {
+    color: #1F2937;
+    text-align: center;
+}
