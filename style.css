@@ -111,3 +111,7 @@ p {
     display: flex;
     flex-wrap: wrap;
 }
+
+.quote {
+    font-size: 36px;
+}
