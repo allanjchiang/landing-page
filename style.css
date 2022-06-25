@@ -138,4 +138,5 @@ p {
     background-color: #3882F6;
     width: 1000px;
     margin: 100px auto 100px auto;
+    display: flex;
 }
