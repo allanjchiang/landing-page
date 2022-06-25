@@ -161,3 +161,7 @@ p {
     display: flex;
     align-items: center;
 }
+
+.sign-up {
+    margin-left: 170px;
+}
