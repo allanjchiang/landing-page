@@ -159,4 +159,5 @@ p {
 
 .modal-right {
     display: flex;
+    align-items: center;
 }
