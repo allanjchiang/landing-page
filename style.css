@@ -140,3 +140,7 @@ p {
     margin: 100px auto 100px auto;
     display: flex;
 }
+
+.modal-left {
+    padding: 50px 0 50px 120px;
+}
