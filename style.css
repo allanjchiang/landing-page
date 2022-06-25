@@ -139,6 +139,7 @@ p {
     width: 1000px;
     margin: 100px auto 100px auto;
     display: flex;
+    border-radius: 8px;
 }
 
 .modal-left {
