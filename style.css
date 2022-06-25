@@ -144,3 +144,7 @@ p {
 .modal-left {
     padding: 50px 0 50px 120px;
 }
+
+.modal-header {
+    color: #F9FAF8;
+}
