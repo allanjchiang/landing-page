@@ -150,3 +150,7 @@ p {
     font-size: 24px;
     font-weight: 500;
 }
+
+.modal-text {
+    color: #E5E7EB;
+}
