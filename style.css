@@ -107,6 +107,10 @@ p {
     padding-bottom: 80px;
 }
 
+.link {
+    color: #3882F6;
+}
+
 .quote-section {
     display: flex;
     justify-content: center;
